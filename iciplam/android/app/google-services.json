@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "74289265893",
+    "firebase_url": "https://iciplam-777-default-rtdb.firebaseio.com",
+    "project_id": "iciplam-777",
+    "storage_bucket": "iciplam-777.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74289265893:android:995578119fda072cc3280c",
+        "android_client_info": {
+          "package_name": "com.example.iciplam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKAE3Z5Ci8M2eXH3GwQtxbNtoMMxpDGcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
